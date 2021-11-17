@@ -1,0 +1,2 @@
+-r ./requirements.txt
+python-lsp-server[all]
