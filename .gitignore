@@ -3,4 +3,4 @@
 
 # Qt Creator
 *.autosave
-*.pyproject
+*.pyproject.user
